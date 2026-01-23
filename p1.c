@@ -45,3 +45,23 @@ Enter Two Numbers :
 3
 Multiplication is 50 
 */
+
+
+/*
+Explanation (for Viva – easy lines)
+Program takes two numbers as input
+User selects operation using menu
+switch case is used to perform operation
+Division by zero is checked
+Result is displayed
+
+Exam / Viva short explanation (yaad rakhne wali)
+This program performs calculator operations using switch case.
+User selects operation and result is displayed.
+
+Viva ke liye 3 sure questions + answers
+Q1. Why switch case used?
+→ To select one operation from many choices.
+Q2. Can we use if-else instead of switch?
+→ Yes, but switch is better for menu driven programs
+*/
