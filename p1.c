@@ -33,3 +33,15 @@ int main(){
   }
   return 0;
 }
+
+/*
+Enter Two Numbers :
+5
+10
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Divisoin
+3
+Multiplication is 50 
+*/
